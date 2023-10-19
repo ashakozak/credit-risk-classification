@@ -6,13 +6,13 @@ Repository for the Monash University Bootcamp Module 20.
 
 ## File Structure
 
-- `credit_risk_classification.ipynb`: The primary Jupyter Notebook that encompasses the entire analysis workflow, from data loading to model evaluation.
+- `credit_risk_classification.ipynb`: The primary Jupyter Notebook with the analysis workflow, from data loading to model evaluation.
 - `Resources` folder: Contains the `lending_data.csv` - a CSV data file providing details on various loans and their risk categorization.
 - `README.md`: The document you're currently reading, which offers an overview of the project and lists the included files.
 
 ## Project Overview
 
-This project delves into the realm of loan creditworthiness, aiming to predict the credit risk associated with each loan. Using the `lending_data.csv` dataset, which contains historical lending activity data, the project aims to build a model that can classify the creditworthiness of borrowers. The project encompasses:
+This project delves into the realm of loan creditworthiness, aiming to predict the credit risk associated with each loan. Using the `lending_data.csv` dataset, which contains historical lending activity data, the project aims to build a model that can classify the creditworthiness of borrowers. The project covers:
 
 ### Data Splitting
 - Loading the dataset and splitting it into training and testing sets.
@@ -28,7 +28,7 @@ Targeted Prediction:
 Healthy Loan (0): Represents loans that are expected to be repaid.
 High-Risk Loan (1): Indicates loans that are at a high probability of defaulting.
 
-Results
+## Results
 The logistic regression model was employed, and the findings are as follows:
 
 ![class_report](https://github.com/ashakozak/credit-risk-classification/assets/134185577/36be826c-901e-479b-a199-be915b94f67d)
