@@ -1,5 +1,3 @@
-# credit-risk-classification
-
 # Credit Risk Classification Challenge
 
 Repository for the Monash University Bootcamp Module 20.
